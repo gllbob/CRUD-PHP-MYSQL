@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;	
+}
+
+html, body{
+	height: 100%;
+}
+
+.clear{
+	clear: both;
+}
+
+nav{
+    text-align: center;
+    width: 100%;
+    padding-top: 1px;
+}
+
+.menu{
+    display: none;
+    line-height: 5vh;
+    text-align: left;
+    font-size: 3vh;
+    padding: 7px 5px;
+    margin-left: 33px;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+td{
+    width: 25%;
+    height:20%;
+}
+
+article{
+    width: 100%;
+    text-align: center;
+}
+
+table{
+    text-align: center;
+    width:80vw;
+    padding-top: 25px;
+}
